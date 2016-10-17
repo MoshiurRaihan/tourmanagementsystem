@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Login Page for </title>
+        <title>Login Page for tour management</title>
 
         <!-- Bootstrap v3.3.7 -->
         <link href="css/bootstrap.min.css" rel="stylesheet">
